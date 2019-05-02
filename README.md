@@ -1,2 +1,2 @@
 # tutorial_EMGprocessing
-tutorial on how to process EMG gait data
+tutorial on how to process EMG gait data in matlab
